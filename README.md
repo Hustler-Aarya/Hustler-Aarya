@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d0eef05c-c1c1-4f8d-97e2-5548e8ba14c5)<h1 align="center">Hi 👋, I'm Aarya Kapoor</h1>
+<h1 align="center">Hi 👋, I'm Aarya Kapoor</h1>
 <h3 align="center">I am a computer Science student and I am building here some cool stuff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hustler-aarya&label=Profile%20views&color=0e75b6&style=flat" alt="hustler-aarya" /> </p>
@@ -9,7 +9,7 @@
 <li>💬 Ask me about React, SQL, Data structures & Algorithm</li>
 <li>📫 How to reach me aaryakapoor10@gmail.com</li>
 </ul>
-<img align="right" alt="coding" style="width: 20px; height: 100px src=" />
+<img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
