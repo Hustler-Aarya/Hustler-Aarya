@@ -3,12 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hustler-aarya&label=Profile%20views&color=0e75b6&style=flat" alt="hustler-aarya" /> </p>
 
-- 🌱 I’m currently learning **react,next.js**
-
-- 💬 Ask me about **react,sql,dsa**
-
-- 📫 How to reach me **aaryakapoor10@gmail.com**
-<img align="right" alt="coding"width="400"src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif/"
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hustler-aarya" alt="hustler-aarya" /></a> </p>
+<ul>
+ <li>🌱 I’m currently learning React,Next.js,Backend</li>
+<li>💬 Ask me about React,Sql,Data structures & Algorithm</li>
+<li>📫 How to reach me aaryakapoor10@gmail.com</li>
+</ul>
+<img align="right" alt="coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
