@@ -9,7 +9,7 @@
 <li>💬 Ask me about React, SQL, Data structures & Algorithm</li>
 <li>📫 How to reach me aaryakapoor10@gmail.com</li>
 </ul>
-<img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" />
+<img align="right" alt="coding" width="400" height="200"src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
